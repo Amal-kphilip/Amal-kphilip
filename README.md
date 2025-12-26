@@ -1,41 +1,62 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:000000,100:111111&text=Amal%20K%20Philip&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Empowering%20Futures%0ASimplifying%20Code&fontAlign=50&fontAlignY=40&fontSize=36&color=0:0b1c2d,100:123c5a&fontColor=ffffff" />
 </p>
 
+<!-- Name -->
+<h1 align="center">Hi, I'm Amal K Philip 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=AAAAAA&center=true&vCenter=true&width=420&lines=vibe+coder;learning+by+building;consistency+over+hype" />
+  Passionate about building clean, efficient, and meaningful software.
 </p>
 
+---
+
+<!-- Social Links -->
 <p align="center">
   <a href="https://x.com/AmalkPhilip">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/amal-k-philip">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/amalkp29">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-minimal mind  
-calm focus  
-consistency > motivation  
+## 🚀 About Me
+- 💻 Interested in **software development & problem solving**
+- 🧠 Focused on **learning by building**
+- ⚡ Enjoy working with modern web technologies
+- 📚 Always improving fundamentals & best practices
 
 ---
 
-**stack**  
-`c` `cpp` `js` `react` `node` `linux` `git`
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,git,linux" />
+</p>
 
 ---
 
-**activity**  
-![streak](https://streak-stats.demolab.com?user=Amal-kphilip&theme=dark&hide_border=true)
+## 📌 What You’ll Find Here
+- Academic & personal projects  
+- Clean and structured code  
+- Experiments with new technologies  
+- Continuous learning progress  
 
 ---
 
-**music**
-![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrjydepamepfdph5fqt2ilvc2i&cover_image=true&theme=novatorem&background_color=000000&bar_color=888888)
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amal-kphilip&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Amal-kphilip&theme=tokyonight)
+
+---
+
+## ⭐ Support
+If you like my work, consider giving a **star ⭐** to the repositories — it really helps!
