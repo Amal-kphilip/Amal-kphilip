@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/AmalkPhilip">x</a> ·
-  <a href="https://www.linkedin.com/in/amal-k-philip">linkedin</a> ·
-  <a href="https://www.instagram.com/amalkp29">instagram</a>
+  <a href="https://x.com/AmalkPhilip">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amal-k-philip">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/amalkp29">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -33,7 +39,3 @@ consistency > motivation
 **music**
 ![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrjydepamepfdph5fqt2ilvc2i&cover_image=true&theme=novatorem&background_color=000000&bar_color=888888)
 
----
-
-currently learning quietly.  
-building small things that matter.
