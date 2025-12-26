@@ -25,30 +25,12 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me
-- 💻 Interested in **software development & problem solving**
-- 🧠 Focused on **learning by building**
-- ⚡ Enjoy working with modern web technologies
-- 📚 Always improving fundamentals & best practices
-
----
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,git,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,git,linux" />
 </p>
 
----
-
-## 📌 What You’ll Find Here
-- Academic & personal projects  
-- Clean and structured code  
-- Experiments with new technologies  
-- Continuous learning progress  
-
----
 
 ## 📊 GitHub Stats
 
