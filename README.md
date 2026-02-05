@@ -45,11 +45,5 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Amal-kphilip&theme=tokyonight)
-
----
-
 ## ⭐ Support
 If you like my work, consider giving a **star ⭐** to the repositories — it really helps!
