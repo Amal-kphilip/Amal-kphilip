@@ -1,10 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Empowering%20Futures%0ASimplifying%20Code&fontAlign=50&fontAlignY=40&fontSize=36&color=0:0b1c2d,100:123c5a&fontColor=ffffff" />
-</p>
-
-<!-- Name -->
 <h1 align="center">Hi, I'm Amal K Philip 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Building+clean,+efficient+software;Empowering+futures,+simplifying+code;Passionate+about+backend+and+databases" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Passionate about building clean, efficient, and meaningful software.
