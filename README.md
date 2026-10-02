@@ -1,160 +1,141 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:6C5CE7,100:00C9A7&height=220&section=header&text=Amal%20K%20Philip&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%E2%80%A2%20Databases%20%E2%80%A2%20Clean%20Code&descSize=20&descAlignY=60" alt="header" width="100%"/>
 
-# Amal K Philip
-
-### Software Developer
-
-Backend. Databases. Clean code.
+<a href="https://github.com/Amal-kphilip">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Amal+%F0%9F%91%8B;Building+clean,+efficient+software;Empowering+futures,+simplifying+code;Passionate+about+backend+and+databases;Always+learning,+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[GitHub](https://github.com/Amal-kphilip) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amal-k-philip) &nbsp;·&nbsp; [X](https://x.com/AmalkPhilip) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/amalkp29)
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=Amal-kphilip&label=Profile%20Views&color=6C5CE7&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Amal-kphilip?label=Followers&style=for-the-badge&logo=github&color=3776AB" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Amal-kphilip?label=Total%20Stars&style=for-the-badge&logo=github&color=00C9A7" alt="Stars"/>
 
 </div>
+
+<br/>
+
+<!-- ===================== SOCIALS ===================== -->
+<p align="center">
+  <a href="https://github.com/Amal-kphilip">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amal-k-philip">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/AmalkPhilip">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/amalkp29">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<br/>
+## 👨‍💻 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-## Empowering futures, simplifying code.
+```python
+class AmalKPhilip:
+    def __init__(self):
+        self.role = "Software Developer"
+        self.focus = ["Backend", "Databases", "Clean Code"]
+        self.languages = ["Python", "Java", "C", "C++", "JavaScript"]
+        self.currently_learning = ["System Design", "Query Optimization"]
+        self.motto = "Empowering futures, simplifying code"
 
-I build clean, efficient software, with a deep interest in how data is designed, stored and queried.
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great.")
+```
 
-</div>
+</td>
+<td width="40%" align="center">
 
-<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=6C5CE7&center=true&vCenter=true&width=260&lines=print('Hello,+World!');SELECT+*+FROM+skills;git+commit+-m+'ship+it'" alt="code typing"/>
 
----
-
-<br/>
-
-<div align="center">
-
-## Focus
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Backend</h3>
-      <sub>Reliable services and clear APIs, built to be maintained.</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>Databases</h3>
-      <sub>Thoughtful schema design and fast, readable SQL.</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>Clean Code</h3>
-      <sub>Simple solutions. Less complexity, more clarity.</sub>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br/>
+- 🔭 Building clean, efficient and meaningful software
+- 🗄️ Deep interest in **backend development** and **database design**
+- 🌱 Constantly learning, one commit at a time
+- 💬 Ask me about **Python, SQL, and problem solving**
 
 ---
 
-<br/>
+## 🛠️ Tech Stack
 
-<div align="center">
+<h3>Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html&theme=dark" alt="languages"/>
+</p>
 
-## Tools
+<h3>Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="databases"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,c,cpp,js,html&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,c,cpp,js,html&theme=light" />
-  <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html" />
-</picture>
-
-<sub>Languages</sub>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
-  <img alt="Databases" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</picture>
-
-<sub>Databases</sub>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
-  <img alt="Tools" src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
-</picture>
-
-<sub>Environment</sub>
-
-</div>
-
-<br/>
+<h3>Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" alt="tools"/>
+</p>
 
 ---
 
-<br/>
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amal-kphilip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-kphilip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top languages"/>
+</p>
 
-## Now
-
-**Learning** System Design &nbsp;·&nbsp; Query Optimization
-
-**Ask me about** Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Problem solving
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Amal-kphilip&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+</p>
 
 ---
 
-<br/>
+## 📈 Profile Summary & Contribution Activity
 
-<div align="center">
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Amal-kphilip&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Amal-kphilip&show_icons=true&theme=transparent&hide_border=true&title_color=1d1d1f&text_color=6e6e73&icon_color=1d1d1f&count_private=true&include_all_commits=true" />
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Amal-kphilip&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-kphilip&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9e9e9e&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-kphilip&layout=compact&theme=transparent&hide_border=true&title_color=1d1d1f&text_color=6e6e73&langs_count=6" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-kphilip&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
+<p align="center">
+  <img width="60%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution graph"/>
+</p>
+<p align="center">
+  <img width="32%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+  <img width="32%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo"/>
+  <img width="32%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit"/>
+</p>
 
 ---
 
-<br/>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## ⭐ Support
+
+If you like my work, consider giving a **star ⭐** to my repositories. It really helps!
+
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<sub>If something here helped you, a ⭐ on my repositories means a lot.</sub>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6C5CE7,100:3776AB&height=120&section=footer" alt="footer" width="100%"/>
 
 </div>
