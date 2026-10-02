@@ -104,18 +104,15 @@ class AmalKPhilip:
 
 ---
 
-## 🏆 Trophies
+## 📈 Profile Summary & Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amal-kphilip&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contribution graph"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 </p>
-
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-kphilip&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language"/>
 </p>
 
 ---
@@ -134,13 +131,12 @@ class AmalKPhilip:
 
 ## 📌 Featured Projects
 
-<!-- Replace YOUR_REPO_NAME with your actual repository names -->
 <p align="center">
   <a href="https://github.com/Amal-kphilip/CleanShot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=CleanShot&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CleanShot"/>
   </a>
   <a href="https://github.com/Amal-kphilip/Framelet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=Framelet&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Framelet"/>
   </a>
 </p>
 
