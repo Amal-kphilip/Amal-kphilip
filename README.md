@@ -136,10 +136,10 @@ class AmalKPhilip:
 
 <!-- Replace YOUR_REPO_NAME with your actual repository names -->
 <p align="center">
-  <a href="https://github.com/Amal-kphilip/YOUR_REPO_NAME">
+  <a href="https://github.com/Amal-kphilip/CleanShot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
   </a>
-  <a href="https://github.com/Amal-kphilip/YOUR_REPO_NAME_2">
+  <a href="https://github.com/Amal-kphilip/Framelet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
   </a>
 </p>
