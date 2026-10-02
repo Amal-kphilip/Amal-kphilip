@@ -107,15 +107,12 @@ class AmalKPhilip:
 ## 📈 Profile Summary & Contribution Activity
 
 <p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution graph"/>
+  <img width="60%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution graph"/>
 </p>
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
-  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-</p>
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo"/>
-  <img width="49%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit"/>
+  <img width="32%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+  <img width="32%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo"/>
+  <img width="32%" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit"/>
 </p>
 
 ---
@@ -128,27 +125,6 @@ class AmalKPhilip:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Amal-kphilip/Amal-kphilip/output/github-snake.svg" />
   </picture>
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Amal-kphilip/CleanShot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=CleanShot&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CleanShot"/>
-  </a>
-  <a href="https://github.com/Amal-kphilip/Framelet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amal-kphilip&repo=Framelet&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Framelet"/>
-  </a>
-</p>
-
----
-
-## 💬 Quote of the Moment
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
 
 ---
